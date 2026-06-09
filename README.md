@@ -15,3 +15,5 @@ Pada percobaan ini dilakukan deteksi pejalan kaki menggunakan metode HOG (Histog
 ## Link vidio deteksi orang  berjalan 
 
 https://drive.google.com/file/d/1-zE7KvNb3yqd_W05JwLLsKjKaSRdfl4A/view?usp=drive_link
+
+Pada percobaan ini dilakukan deteksi pejalan kaki pada video menggunakan OpenCV dengan metode HOG (Histogram of Oriented Gradients) dan SVM (Support Vector Machine). Program membaca video frame demi frame, kemudian menganalisis setiap frame untuk mendeteksi keberadaan manusia. Objek yang teridentifikasi sebagai pejalan kaki akan ditandai dengan kotak pembatas berwarna merah. Hasil pengujian menunjukkan bahwa sistem mampu mendeteksi dan melacak pejalan kaki secara real-time selama video diputar. Deteksi dapat dilakukan pada beberapa orang sekaligus selama objek terlihat dengan cukup jelas pada video.
