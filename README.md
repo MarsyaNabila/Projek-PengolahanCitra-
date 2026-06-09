@@ -4,7 +4,7 @@ Nama: Marsya Nabila Putri
 
 NIM: 312410338
 
-Kelas: I241D
+Kelas: I241C
 
 ## Scerenshoot deteksi pada gambar (perjalan kaki)
 
