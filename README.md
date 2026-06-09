@@ -14,3 +14,4 @@ Pada percobaan ini dilakukan deteksi pejalan kaki menggunakan metode HOG (Histog
 
 ## Link vidio deteksi orang  berjalan 
 
+https://drive.google.com/file/d/1-zE7KvNb3yqd_W05JwLLsKjKaSRdfl4A/view?usp=drive_link
